@@ -80,6 +80,8 @@ Requires `python -m pip install Pillow`.
 
 ## Example
 
+![example](docs/examples/example_contact_sheet.png)
+
 See [`docs/examples/`](docs/examples/): an end-to-end demo (AI-generated original schematic →
 decomposition → isolated transparent assets). The example image is AI-generated and contains no
 third-party copyrighted material.

@@ -70,6 +70,8 @@ python scientific-asset-reconstruction/scripts/audit_assets.py ./out/png --out .
 
 ## 示例
 
+![example](docs/examples/example_contact_sheet.png)
+
 见 [`docs/examples/`](docs/examples/)：用 AI 生成的原创示意图演示"参考图 → 拆解 → 独立透明素材"的完整过程
 （示例图由 AI 生成，不含第三方版权素材）。
 
