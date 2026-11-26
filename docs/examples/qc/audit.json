@@ -1,0 +1,110 @@
+{
+  "total": 7,
+  "counts": {
+    "pass": 7,
+    "review": 0,
+    "fail": 0
+  },
+  "effective_long_edge_target": 1024,
+  "visual_and_scientific_review": "not performed by script",
+  "files": [
+    {
+      "file": "01_t_cell.png",
+      "mode": "RGBA",
+      "width_px": 1217,
+      "height_px": 1497,
+      "effective_width_px": 1062,
+      "effective_height_px": 1077,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    },
+    {
+      "file": "02_car_receptor.png",
+      "mode": "RGBA",
+      "width_px": 1140,
+      "height_px": 1494,
+      "effective_width_px": 809,
+      "effective_height_px": 1301,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    },
+    {
+      "file": "03_plasmid_ring.png",
+      "mode": "RGBA",
+      "width_px": 1338,
+      "height_px": 1329,
+      "effective_width_px": 1117,
+      "effective_height_px": 1134,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    },
+    {
+      "file": "04_mrna_strand.png",
+      "mode": "RGBA",
+      "width_px": 2290,
+      "height_px": 861,
+      "effective_width_px": 2005,
+      "effective_height_px": 310,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    },
+    {
+      "file": "05_membrane_bilayer.png",
+      "mode": "RGBA",
+      "width_px": 1879,
+      "height_px": 985,
+      "effective_width_px": 1631,
+      "effective_height_px": 421,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    },
+    {
+      "file": "06_flow_cytometer.png",
+      "mode": "RGBA",
+      "width_px": 1409,
+      "height_px": 1259,
+      "effective_width_px": 1052,
+      "effective_height_px": 1005,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    },
+    {
+      "file": "07_culture_flask.png",
+      "mode": "RGBA",
+      "width_px": 1412,
+      "height_px": 1306,
+      "effective_width_px": 1108,
+      "effective_height_px": 1065,
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_border": true,
+      "duplicate_of": "",
+      "machine_status": "pass",
+      "warnings": ""
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿id,category,name_zh,name_en,source_region,variant,parent_id,method,filename,width_px,height_px,effective_width_px,effective_height_px,alpha_status,visual_status,science_status,notes
+001,,,01_t_cell,,,,individual_generation,01_t_cell.png,1217,1497,1062,1077,pass,review,unknown,
+002,,,02_car_receptor,,,,individual_generation,02_car_receptor.png,1140,1494,809,1301,pass,review,unknown,
+003,,,03_plasmid_ring,,,,individual_generation,03_plasmid_ring.png,1338,1329,1117,1134,pass,review,unknown,
+004,,,04_mrna_strand,,,,individual_generation,04_mrna_strand.png,2290,861,2005,310,pass,review,unknown,
+005,,,05_membrane_bilayer,,,,individual_generation,05_membrane_bilayer.png,1879,985,1631,421,pass,review,unknown,
+006,,,06_flow_cytometer,,,,individual_generation,06_flow_cytometer.png,1409,1259,1052,1005,pass,review,unknown,
+007,,,07_culture_flask,,,,individual_generation,07_culture_flask.png,1412,1306,1108,1065,pass,review,unknown,

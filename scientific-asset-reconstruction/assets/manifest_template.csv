@@ -1,0 +1,3 @@
+id,category,name_zh,name_en,source_region,variant,parent_id,method,filename,width_px,height_px,effective_width_px,effective_height_px,alpha_status,visual_status,science_status,notes
+001,antigen_presentation,HLA-I 重链,HLA-I heavy chain,"HLA-I panel, upper-left",wildtype,,individual_generation,png/antigen_presentation/001_hla1_heavy_chain.png,1149,1369,711,964,pass,pass,review,"β2M 不跨膜，已核对；肽为示意"
+002,antigen_presentation,β2M,Beta-2 microglobulin,"HLA-I panel, right",wildtype,001,individual_generation,png/antigen_presentation/002_b2m.png,,,,,unknown,unknown,unknown,"待生成"

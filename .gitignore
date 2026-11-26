@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated / output
+scientific_assets_*/
+generated-images/
+*_audit/
+audit_v*/
+png_raw/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

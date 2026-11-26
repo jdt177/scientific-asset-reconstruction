@@ -1,0 +1,8 @@
+﻿file,mode,width_px,height_px,effective_width_px,effective_height_px,alpha_min,alpha_max,transparent_border,duplicate_of,machine_status,warnings
+01_t_cell.png,RGBA,1217,1497,1062,1077,0,255,True,,pass,
+02_car_receptor.png,RGBA,1140,1494,809,1301,0,255,True,,pass,
+03_plasmid_ring.png,RGBA,1338,1329,1117,1134,0,255,True,,pass,
+04_mrna_strand.png,RGBA,2290,861,2005,310,0,255,True,,pass,
+05_membrane_bilayer.png,RGBA,1879,985,1631,421,0,255,True,,pass,
+06_flow_cytometer.png,RGBA,1409,1259,1052,1005,0,255,True,,pass,
+07_culture_flask.png,RGBA,1412,1306,1108,1065,0,255,True,,pass,
